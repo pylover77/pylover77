@@ -10,9 +10,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL 
+- 💻 &nbsp; Python | Django 
+- 🌐 &nbsp; HTML | CSS | Bootstrap 
+- 🌐 &nbsp; Javascript | Typescript | NodeJS | ReactJS
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
