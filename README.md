@@ -3,17 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web development and Python  
+- 🔭 &nbsp; I’m currently learning Web development Full-Stack
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Information Systems.
-- 🌱 &nbsp; Cyber Security and Artificial Intelligence lover. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Django 
+- 💻 &nbsp; Python | Java 
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
 - 🌐 &nbsp; Javascript | Typescript | NodeJS | ReactJS
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
